@@ -1,0 +1,130 @@
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+    
+}
+
+nav a{
+    text-align: center;
+    color: #1C0221;
+    text-decoration: none;
+    padding: 35px;
+}
+#hero-msg h1, #hero-msg h4{
+  text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background{
+    height: 725px;
+    background-color: white;
+    
+}
+body{
+ background-color: #90C3C8;
+ margin: 0;
+ padding: 0;
+}
+header{
+    background-color: #77685D;
+}
+nav a:hover{
+    background-color: #FAC05E;
+    color: #1C0221;
+}
+.book, .join{
+    background-color: antiquewhite;
+    color: #1C0221;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.book:hover, .join:hover{
+    background-color: antiquewhite;
+    color: #1C0221;
+}
+#background{
+    background-color: antiquewhite;
+}
+.msg{
+    background-color: #FAC05E;
+    line-height: 1.5em;
+    padding: 35px;
+}
+footer{
+    background-color: #77685D;
+    color: #1C0221;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+nav a:hover{
+    color: #1C0221;
+}
+h4{
+    color: #1C0221;
+}
+.msg h2{
+    color: #1C0221;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+.msg p{
+    color: #1C0221;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+footer a{
+    color: #1C0221;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #1C0221;
+}
+.icon{
+    width: 80px;
+    padding-top: 10px;
+}
+.logo{
+    width: 80px;
+}
+footer p{
+    font-size: 1.2em;
+}
+footer p:hover{
+    text-decoration: underline;
+}
+#hero-img{
+    width: 100%;
+}
+.book, .join{
+    font-size: 18px;
+    border-radius: 5px;
+}
+h2{
+    margin: 0;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer .social img{
+    padding-top: 15px;
+}
+.river-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+.card-img{
+    border: 10px;
+}
+main section img {
+    box-sizing: border-box;
+}
+
+ 
