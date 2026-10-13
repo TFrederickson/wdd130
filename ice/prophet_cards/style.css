@@ -1,0 +1,35 @@
+body{
+    background-color: #ffecd7;
+    text-align: center;
+}
+#card{
+    background-color: #008db1;
+    border: #004e63;
+    border-radius: 20px;
+    width: 300px;    
+    padding: 5%;
+    margin-inline: auto;
+}
+h1{
+    color: #fffffe;
+    font: helvetica;
+}
+a{
+    color: #91e4fb;
+    font: helvetica;
+    text-decoration: none;
+    padding-bottom:50px;
+}
+p{
+    color:#ffd783;
+    font-family: "Brush Script MT", "Nanum Brush Script";
+}
+ul{
+    color: #fffffe;
+    font: helvetica;
+    list-style-position: inside; /* Pulls the bullet closer to the text */
+    padding-left: 0;             
+}
+img{
+    width: 300px;
+}
